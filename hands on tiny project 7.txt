@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+table,td{border:1px solid black;border-collapse:collapse;padding:12px;}
+th{border:1px solid black;border-collapse:collapse;padding:12px;}
+</style>
+</head>
+<body>
+<h2> Employee Table </h2>
+<table style="background-color:lightyellow;">
+
+<tr>
+<th>Name</th>
+<th>Job Title</th>
+<th>Email Address</th>
+</tr>
+
+<tr>
+<td>Alferds</td>
+<td>Developer</td>
+<td>alferds@company.com</td>
+</tr>
+
+<tr>
+<td>Maria</td>
+<td>Staff Writer</td>
+<td>maria@company.com</td>
+</tr>
+
+<tr>
+<td>Ernst</td>
+<td>Project Head</td>
+<td>Ernst@company.com</td>
+</tr>
+
+<tr>
+<td>Albert</td>
+<td>Research Scientist</td>
+<td>albert@company.com</td>
+</tr>
+
+<tr>
+<td>Winston</td>
+<td>Developer</td>
+<td>winston@company.com</td>
+</tr>
+
+<tr>
+<td>martin</td>
+<td>Skill Developer</td>
+<td>martin@company.com</td>
+</tr>
+
+</table>
+
+    
+     
+</body>
+</html>

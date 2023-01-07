@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+</head>
+<body style="background-color: black;">
+    
+    <h4 style="color:aqua;">Designed for Developers</h4>
+     <h1 style="color:white;">The World's most powerful and easy-to-use APIs</h1>
+     <h3 style="color:darkgray;">We agonize over thr right abstractions so your teams don't need to stitch together disparate systems or spend months integrating payments functionality</h3>  
+</body>
+</html>

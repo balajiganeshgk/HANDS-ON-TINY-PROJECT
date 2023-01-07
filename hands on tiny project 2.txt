@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+#pa{
+position : absolute ;
+font-size:25px;
+top:100px;
+right:440px;
+}  
+</style>
+</head>
+<body style="background-color:orange;">
+    
+    <h1 style="color:green;"><b>Ricardo's Page</h4>
+     <h2 style="color:green;">My Dog</h1>
+<img src="https://wallpapersmug.com/download/3840x2160/8b5b1a/outdoor-husky-dog.jpg"width=500 height = 500></img>
+     <p id="pa" style="color:green;"><b>My dog Dani is my best friend.<br>He likes to chase thr soccer ball when I practice.<br>It is so funny to see his running down the field trying to catch<br> the ball with his mouth.it just won't fit!!</h3>  
+</body>
+</html>
